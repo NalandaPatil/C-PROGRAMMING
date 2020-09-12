@@ -10,6 +10,6 @@ void main()
   cout<<"Enter the second number:";
   cin>>y;
   z=x+y;
-  cout<<"the sum of guven numbers is "<<z;
+  cout<<"The sum of given numbers is "<<z;
   getch();
   }
