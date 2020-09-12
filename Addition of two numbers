@@ -7,7 +7,7 @@ void main()
   clrscr();
   cout<<"Enter the first number:";
   cin>>x;
-  cout<<"Enter the first second:";
+  cout<<"Enter the second number:";
   cin>>y;
   z=x+y;
   cout<<"the sum of guven numbers is "<<z;
