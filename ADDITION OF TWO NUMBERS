@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+  int x,y,z;
+  clrscr();
+  cout<<"Enter the first number:";
+  cin>>x;
+  cout<<"Enter the first second:";
+  cin>>y;
+  z=x+y;
+  cout<<"the sum of guven numbers is "<<z;
+  getch();
+  }
